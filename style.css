@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1300px;
+    margin: auto;
+}
+
+.d-0 ul{
+padding-left: 1200px;
+list-style: none;
+}
+
+.d-0 h1{
+    margin-bottom: 10px;
+}
+
+.d-1 p{
+    padding: 10px 8px ;
+}
+
+
+.s-0 h1{
+text-align: center;
+}
+
+.s-0 p{
+    padding: 10px 12px 8px 10px;
+}
+
+.s-1 img{
+    width: 1000px;
+    height: 600px;
+    margin: 88px;
+    box-shadow: 5px 8px 15px 1px  rgb(24, 24, 23);
+    /* border-radius: 10px; */
+    /* transform: perspective(20deg); */
+}
+
+.box{
+    border: 300px;
+    /* border-radius: 120px; */
+}
+
+
